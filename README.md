@@ -1,9 +1,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=feitosadavi" alt="feitosadavi" /></p>
 
-<h1 align = "justify"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Davi</h1>
+<h1 align = "justify"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Davi</h1>
 
 I'm an IT student and Web Developer focused on Javascript.
-At the moment, I am attending the Escola Técnica de Brasília (ETB), in the 4th half.
+At the moment, I'm attending the Escola Técnica de Brasília (ETB), in the 4th half.
 
 - 🌱 I'm currently learning NextJS, GraphQL API's and Clean Architecture.
 - 🔭 I’m currently working on my final paper 'MyBooks', a virtual library to rent books from a school.
