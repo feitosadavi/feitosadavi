@@ -2,12 +2,10 @@
 
 <h1 align = "justify"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Davi</h1>
 
-I'm an IT student and Web Developer focused on Javascript.
-At the moment, I'm attending the Escola Técnica de Brasília (ETB), in the 4th half.
+I'm an IT student
 
-- 🌱 I'm currently learning NextJS, GraphQL API's and Clean Architecture.
-- 🔭 I’m currently working on my final paper 'MyBooks', a virtual library to rent books from a school.
-- ⭐ I have another project called Flapress, a news platform via whatsapp to inform Flamengo fans about their team with brief news. It's made with Typescript, NodeJS and Venom Bot, but it's currently stopped so I can finish my final paper.
+- 🌱 I'm currently learning MongoDB and Data Science.
+- 🔭 I’m currently working on my a personal project called captaação.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-feitosa-53b409206/)](https://www.linkedin.com/in/davi-feitosa-53b409206/)
