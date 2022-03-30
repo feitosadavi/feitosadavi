@@ -2,7 +2,7 @@
 
 <h1 align = "justify"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Davi</h1>
 
-I'm an IT student
+Currently working on web development projects
 
 - 🌱 I'm currently learning MongoDB and Data Science.
 - 🔭 I’m currently working on my a personal project called captaação.
