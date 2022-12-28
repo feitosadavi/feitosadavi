@@ -4,8 +4,8 @@
 
 Currently working on web development projects
 
-- 🌱 I'm currently learning MongoDB and Data Science.
-- 🔭 I’m currently working on my a personal project called captaação.
+- 🌱 I'm currently learning more about Software Architecture.
+- 🔭 I’m currently working on my a personal project called Capital Carcheck.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-feitosa-53b409206/)](https://www.linkedin.com/in/davi-feitosa-53b409206/)
