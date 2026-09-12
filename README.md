@@ -1,17 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=feitosadavi" alt="feitosadavi" /></p>
 
-<h1 align = "justify"> Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Davi</h1>
-
-Currently working on web development projects
-
-- 🌱 I'm currently learning more about Software Architecture.
-- 🔭 I’m currently working on my a personal project called Capital Carcheck.
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davi-feitosa-53b409206/)](https://www.linkedin.com/in/davi-feitosa-53b409206/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/davi.feittosa/)](https://www.instagram.com/davi.feittosa/)
-[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:davifeitosa.dev@protonmail.com)](mailto:davifeitosa.dev@protonmail.com)
-
 ## 🚀💻 Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
